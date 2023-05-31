@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'icitas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_692ADB908CAB48A3A34003FA80D0693F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CD0EC1C1426431BB72B82982C0F3440 }}
           package: .
